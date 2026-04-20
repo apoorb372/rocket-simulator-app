@@ -1,6 +1,6 @@
-# rocket-simulator-app
-🚀 Interactive Rocket Simulation Web App built using Python &amp; Streamlit.  Simulates projectile motion with air resistance and visualizes trajectory in real-time.
 # 🚀 Rocket Simulator App
+🚀 Interactive Rocket Simulation Web App built using Python &amp; Streamlit.  Simulates projectile motion with air resistance and visualizes trajectory in real-time.
+
 
 An interactive web application that simulates rocket motion using physics principles.
 
@@ -20,3 +20,6 @@ An interactive web application that simulates rocket motion using physics princi
 ```bash
 pip install -r requirements.txt
 streamlit run rocket_streamlit.py
+
+## 🌐 Live Demo
+https://rocket-simulator-apoorb.streamlit.app/
